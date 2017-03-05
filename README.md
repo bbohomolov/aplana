@@ -1,7 +1,7 @@
 # APLANA
-For run use command "mvn test"
+Use "mvn test" command for build.
 
-Solution for test task:
+Test task:
 С помощью Selenium + Maven + Java автоматизировать два следующих тестовых сценария:
 
 1. Открыть браузер и развернуть на весь экран.
