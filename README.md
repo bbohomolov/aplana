@@ -1,4 +1,4 @@
-# aplana
+# APLANA
 For run use command "mvn test"
 
 Solution for test task:
