@@ -11,7 +11,7 @@ public class Utils {
         String path = "";
 
         if (os.contains("linux")) path = "src/test/resources/linux_" + arch;
-        else if (os.contains("windows")) path = "src/test/resources/windows_" + arch;
+        else if (os.contains("windows")) path = "src/test/resources/windows_x86_x64.exe";
         else path = "src/test/resources/mac";
 
         System.setProperty("webdriver.gecko.driver", path);
