@@ -1,6 +1,7 @@
 # APLANA
 Use "mvn test" command for build.
 Note: It will fail on step 10, because by default 12 items are shown on Yandex Market page.
+Also it could be failed if os.arch is not the following as pointed in Utils class, tested only for linux
 
 Test task:
 С помощью Selenium + Maven + Java автоматизировать два следующих тестовых сценария:
